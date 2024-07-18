@@ -1,4 +1,4 @@
-ESERCITAZIONE 07: TERMODINAMICA CON MONTE CARLO.
+ESERCITAZIONE 07: TERMODINAMICA CON MONTE CARLO
 
 Per la cartella Esercizio_07 valgono le seguenti istruzioni per:
 
